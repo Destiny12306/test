@@ -1,0 +1,5 @@
+13cebc61ecd56daa97c1c06c3c8ac1f6  rootfs
+19fe796c020264583662d9307f07405f  uImage
+070c2d13d1e9c24c13ad9f0daf36fef3  fwu_ver
+899b03fc2f59bea3e5577a9bf337c70b  hw_ver
+420a0ebf5a6e51a349ac9960136b968e  fwu.sh
